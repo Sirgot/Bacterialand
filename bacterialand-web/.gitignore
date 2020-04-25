@@ -1,0 +1,35 @@
+# Compiled source #
+###################
+*.com
+# Binary files
+*.class
+.dll
+.exe
+.o
+.so
+.lnk
+
+#IntelliJ generated files
+.idea
+*.iml
+.project
+
+
+# Logs and temporary files
+*.log.*
+*.tmp
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+# Project specific
+tools.xml
+Thumbs.db*
+*.hijacked
+
+node_modules
