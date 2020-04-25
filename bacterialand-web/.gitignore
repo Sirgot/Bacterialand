@@ -33,3 +33,5 @@ Thumbs.db*
 *.hijacked
 
 node_modules
+target
+/src/main/java/games/sim/web/node/
