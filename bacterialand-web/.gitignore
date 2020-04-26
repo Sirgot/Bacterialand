@@ -35,3 +35,5 @@ Thumbs.db*
 node_modules
 target
 /src/main/java/games/sim/web/node/
+.idea
+*.iml

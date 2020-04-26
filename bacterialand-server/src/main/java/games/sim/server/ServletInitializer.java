@@ -1,4 +1,4 @@
-package games.sim.server.BacterialandServer;
+package games.sim.server;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
