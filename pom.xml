@@ -13,7 +13,7 @@
     </parent>
     <modules>
         <module>bacterialand-server</module>
-        <module>bacterialand-web</module>
+<!--        <module>bacterialand-web</module>-->
     </modules>
     <properties>
         <java.version>1.8</java.version>
