@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "bacterialand-web"
+    }
+  },
+  "defaultProject": "bacterialand-web",
+  "cli": {
+    "analytics": "06a3b92b-307f-4adf-b21c-b1f158aa462a"
+  }
 }
