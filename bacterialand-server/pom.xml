@@ -17,7 +17,7 @@
     <packaging>war</packaging>
 
     <properties>
-        <spring.version>5.2.5.RELEASE</spring.version>
+        <spring.version>5.2.21.RELEASE</spring.version>
         <springboot.version>2.2.6.RELEASE</springboot.version>
         <querydsl.version>4.3.1</querydsl.version>
     </properties>
